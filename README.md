@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Petar Trajkovic]
+## Hey 👋, I'm [Petar Trajkovic](https://codingzeus1218999.github.io)
 
 ### Glad to see you here! &nbsp; 
 I'm a graduate in Computer Science 🎓 from University of Debrecen 🏛. I'm a passionate learaner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
@@ -23,7 +23,8 @@ Like My Work?
 
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 
-- 📝 &nbsp; Checkout my [resume](https://github.com/codingzeus1218999/codingzeus1218999.github.io/tree/master/pdf/cv-DanielLin1.pdf).
+- 📝 &nbsp; Checkout my [resume](https://github.com/codingzeus1218999/codingzeus1218999.github.io/tree/master/pdf/cv-DanielLin.pdf).
+<!-- - 📝 &nbsp; Checkout my [resume](https://github.com/codingzeus1218999/codingzeus1218999.github.io/tree/master/pdf/cv-DanielLin.pdf). -->
 
 ### My Absolute Favorites:
 
