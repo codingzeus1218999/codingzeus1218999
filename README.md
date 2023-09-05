@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Petar Trajkovic][//(https://codingzeus1218999.github.io)]
+## Hey 👋, I'm [Petar Trajkovic]
 
 ### Glad to see you here! &nbsp; 
 I'm a graduate in Computer Science 🎓 from University of Debrecen 🏛. I'm a passionate learaner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
