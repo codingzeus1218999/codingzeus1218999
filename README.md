@@ -1,4 +1,4 @@
-## Hey 👋, I'm Petar Trajkovic.
+<!--- ## Hey 👋, I'm Petar Trajkovic.
 
 ### Glad to see you here! &nbsp; 
 I'm a graduate in Computer Science 🎓 from University of Belgrade 🏛. I'm a passionate learaner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
@@ -71,3 +71,4 @@ Like My Work?
 <div align="center">
   Show some ❤️ by starring some of the repositories!
 </div>
+-->
