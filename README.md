@@ -1,8 +1,7 @@
 ## Hey 👋, I'm Petar Trajkovic.
-<!-- ## Hey 👋, I'm [Daniel Lin](https://codingzeus1218999.github.io) -->
 
 ### Glad to see you here! &nbsp; 
-I'm a graduate in Computer Science 🎓 from University of Debrecen 🏛. I'm a passionate learaner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a graduate in Computer Science 🎓 from University of Belgrade 🏛. I'm a passionate learaner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 Joined Github **8** years ago.
 
@@ -20,11 +19,7 @@ Like My Work?
 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/codingzeus1218999).
 
-- 💬 &nbsp; Ask me about anything [here](https://codingzeus1218999.github.io)! I am happy to help.
-
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-
-<!-- - 📝 &nbsp; Checkout my [resume](https://github.com/codingzeus1218999/codingzeus1218999.github.io/tree/master/pdf/cv-DanielLin.pdf). -->
 
 ### My Absolute Favorites:
 
