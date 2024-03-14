@@ -1,3 +1,4 @@
+I'm always ready and open to you.
 <!--- ## Hey 👋, I'm Petar Trajkovic.
 
 ### Glad to see you here! &nbsp; 
